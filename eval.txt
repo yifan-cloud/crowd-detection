@@ -1,0 +1,5 @@
+1. MobileNet 画出训练好的ROC曲线和准确率
+
+2. YOLO列出MAE和MSE
+
+3. MCNN列出MAE和MSE

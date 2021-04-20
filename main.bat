@@ -1,0 +1,1 @@
+start cmd /k "cd H:\人脸2\model&h:&activate ykeras&python main.py"
